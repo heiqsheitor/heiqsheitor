@@ -1,6 +1,7 @@
 ## Olá, eu sou o Heitor 👋
 
-Estudante de Ciência da Computação e Técnico em Informática, focado em desenvolvimento back-end.
+Estudante de Ciência da Computação pela FURB e formado no curso Técnico em Informática ao Ensino Médio no IFSC Gaspar.
+Tenho foco no desenvolvimento back-end.
 
 ## 🛠️ Tecnologias
 - Linguagens: Java, HTML, CSS, JavaScript
